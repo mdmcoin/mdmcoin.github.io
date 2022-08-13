@@ -30,10 +30,10 @@ Syntax highlighted code block
 
 ### MDMDCOIN WEBSITE
 
-[https://mdmcoin.com](url)
+[https://mdmcoin.com]([url](https://mdmcoin.com))
 
 ### MDMCOIN LOGO
-[https://mdmcoin.com/wp-content/uploads/2022/07/ico-mdmcoin-lv.png](src)
+[https://mdmcoin.com/wp-content/uploads/2022/07/ico-mdmcoin-lv.png](https://mdmcoin.com/wp-content/uploads/2022/07/ico-mdmcoin-lv.png)
 ### Support or Contact
 
 https://t.me/mdmcoin
