@@ -32,6 +32,8 @@ Syntax highlighted code block
 
 [https://mdmcoin.com](url)
 
+### MDMCOIN LOGO
+[https://mdmcoin.com/wp-content/uploads/2022/07/ico-mdmcoin-lv.png](src)
 ### Support or Contact
 
 https://t.me/mdmcoin
