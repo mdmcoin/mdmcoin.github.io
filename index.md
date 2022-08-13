@@ -21,6 +21,8 @@ MDMCOIN Wallet - [wallet.mdmcoin.com](https://wallet.mdmcoin.com)
 MDMCOIN Leasing (LPoS) - [lpos.mdmcoin.com](https://lpos.mdmcoin.com)
 
 ### MDMCOIN LOGO
+MDMCOIN Logo - [LOGO](https://mdmcoin.github.io/assets/img/ico-mdmcoin.png)
+
 
 ### Support or Contact
 
